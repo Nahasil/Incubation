@@ -1,0 +1,19 @@
+.seat{
+    display:flex;
+   justify-content: center;
+    align-items: center;
+}
+.seatArrange{
+    display:flex;
+    padding: 1rem;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: crimson;
+    width:130px;
+    height: 130px;
+    background-color: aqua;
+        margin: 10px;
+}
